@@ -1,0 +1,66 @@
+"sessions":[
+    {
+        "month":11,
+        "day":21,
+        "year":2017,
+        "hour":10,
+        "minute":0,
+        "meditation":"U",
+        "session_num_a":0.6,
+        "session_num_b":0.6,
+        "session_num_c":0.6,
+        "session_num_d":0.6
+    },
+    
+    {
+        "month":11,
+        "day":21,
+        "year":2017,
+        "hour":14,
+        "minute":0,
+        "meditation":"W",
+        "session_num_a":0.6,
+        "session_num_b":0.6,
+        "session_num_c":0.6,
+        "session_num_d":0.6
+    },
+    
+    {
+        "month":11,
+        "day":21,
+        "year":2017,
+        "hour":18,
+        "minute":0,
+        "meditation":"B",
+        "session_num_a":0.2,
+        "session_num_b":0.8,
+        "session_num_c":0.3,
+        "session_num_d":1.0
+    },
+    
+    {
+        "month":11,
+        "day":22,
+        "year":2017,
+        "hour":13,
+        "minute":30,
+        "meditation":"A",
+        "session_num_a":0.8,
+        "session_num_b":1.0,
+        "session_num_c":0.7,
+        "session_num_d":1.0
+    },
+    
+    {
+        "month":11,
+        "day":22,
+        "year":2017,
+        "hour":15,
+        "minute":30,
+        "meditation":"U",
+        "session_num_a":0.7,
+        "session_num_b":0.5,
+        "session_num_c":0.5,
+        "session_num_d":0.5
+    }
+]
